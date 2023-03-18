@@ -9,7 +9,7 @@
 <h1 align="center">Python</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/python?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{usmanjavaid227}}/python?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/python?color=56BEB8">
 
