@@ -9,16 +9,6 @@ In this repository you will learn the basic to advance python programming needed
 I'm passionate about learning data scientist. I have hands-on experience with Python, SQL, visualization, data cleaning, data analysis, machine learning, deep learning, computer vision, and PowerBI tools.
 
 I mainly work on computer vision projects but curious to all fields where data has big impact.
-## 🛠 Skills
-- Python Programming
-- R Programming
-- SQL
-- Mathematics, Statistical Analysis, and Probability
-- Data Mining
-- Machine Learning and AI
-- Data Visualization
-- Soft Skills (Analytics Mindset, Decision Making, Collaboration, Story telling, Continuous Learning and good communication skill)
-- computer vision
 
 ## Topic wise learning
 
